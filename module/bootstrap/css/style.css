@@ -1,0 +1,334 @@
+ .input-group-addon{
+      color: white;
+      background-color: #17a2b8;
+      border-color: #4cae4c;
+    }
+  .input-group{
+      margin-left: 5px;
+    }
+    .form2 label{
+      margin-left: 5px;
+    }
+
+    
+  body{
+  margin: 0px;
+  padding: 0px;
+   /*background-color: #ddd;*/
+  
+}
+
+nav {
+   background-color:#ECECFA;
+}
+nav .topnav {
+   display: inline-block;
+   margin-left: 10px;
+     height: 40px;
+    
+}
+nav .topnav a {
+    /*color: #337AB7;*/ 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 6px;
+}
+nav .topnav a:hover {
+    background-color: #ffffff;
+    color: red;
+    font-size: 17px;
+}
+nav .topnav .Search{
+    
+    float: right;
+}
+nav .topnav .Search input{
+    text-align: center;
+    font-size: 17px;
+    padding: 6px;
+    margin-left: 10px;
+    margin-right: 0px;
+
+}
+nav .topnav .Search button {
+    font-size: 17px;
+    padding: 6px;
+    margin-left: 0px;
+}
+nav .float-right{
+  float: right;
+  margin-right: 5px;
+
+}
+nav .float-right a{
+   
+   color: #337AB7; 
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+     padding: 6px;
+}
+nav .float-right a:hover {
+    background-color: #ffffff;
+    color: red;
+    font-size: 20px;
+}
+ 
+.main-container{
+      margin-top: 0px;
+      border-radius: 0px 0px 10px 10px;
+      border: 1px solid #ddd;
+     }
+
+    .left-float{
+      background-color: #ddd;
+    }
+     
+     .left-float .side-navi a{
+       text-decoration: none;
+       background-color: #ECECFA;
+       display: block;
+       border-bottom: 3px solid #A7A7AD;
+       color: #337AB7;
+       cursor: move; 
+        text-align: center;
+        padding: 8px 0px;
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+    
+    .left-float .side-navi a:hover{
+           cursor:pointer;
+          background-color:#ffffff;
+          font-size:22px;
+          color:red;
+
+    }
+  .left-float .image{
+      margin: 0px auto 0px;
+      margin-top: 5px;
+      margin-bottom: 20px;
+      width: 250px;
+      border:1px solid black;
+      background-color: #ffffff;
+    }
+.left-float .image img{
+
+  height: 250px;
+  width: 250px;
+}
+   .main-wrapping1{
+      background-color: white;
+      padding: 20px;
+      border: 1px solid #ddd;
+       border-left: 2px solid black;
+      padding-bottom: 330px;
+      width: 100%;
+ 
+}
+    .main-wrapping{
+      background-color: white;
+      border-top: none;
+     /* width: 98%;*/
+      border: 1px solid #ddd;
+}
+
+ .main-wrappings{
+      border-top: none;
+      margin-top: 0px;
+      padding-top: 25px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      margin-left: 10px;
+      border: 1px solid #ddd;
+    background-color:white;
+ 
+}
+.main-wrapping h1 {
+  font-size: 30px;
+  margin: 0px auto;
+  text-align: center;
+  color: #337AB7;
+  margin-top: 5px;
+  width: 390px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #ECECFA;
+  margin-bottom: 5px;
+  
+  
+}
+.main-wrapping h2 {
+  font-size: 25px;
+  margin: 0px auto;
+  text-align: center;
+  color: #337AB7;
+  margin-top: 5px;
+  width: 590px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #ECECFA;
+  margin-bottom: 5px;
+  
+  
+}
+
+ .side-wrapping{
+     margin: 0px auto 0px;
+  width: 820px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+
+.side-container{
+  display: inline-flex;
+     margin: 0px auto 0px;
+  margin-top: 5px;
+    margin-left: 5px;
+  width: 400px;
+  border: 1px solid green;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #fff;
+  margin-bottom: 5px;
+
+}
+
+
+  .formheader{
+      /*margin-top: 10px;*/
+      font-size: 28px;
+      background:#ECECFA;
+      text-align:center;
+      color: #337AB7;
+      margin: 10px;
+        }
+
+
+.form1 {
+
+  margin: 0px auto;
+  padding-left: 10px;
+  width: 420px;
+  border: 1px solid #ccc;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #ECECFA;
+  margin-bottom: 20px;
+  
+  
+}
+label
+  {
+    color:steelblue;
+  }
+
+.formheadera{
+      font-size: 31px;
+      background:#ECECFA;
+      text-align:center;
+      color:#337AB7;
+      margin-top: 10px;
+      margin-right: 10px;
+      margin-left: 10px;
+      height: 40px;
+
+        }
+
+        .formheaderb{
+      font-size: 20px;
+      background:#ECECFA;
+      text-align:center;
+      color: #337AB7;
+     margin: 10px;
+
+        }
+
+.form2{
+
+  margin: 0px auto 0px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #ECECFA;
+  border:1px solid #ccc;
+  
+  
+}
+
+/*footer*/
+#footer{
+
+background-color:#ECECFA;
+color: #337AB7;
+text-align: center;
+font-size: 30px;
+height: 100%;
+line-height:32px;
+}
+#footer a{
+
+text-decoration: none;
+}
+
+
+/*service.php table style*/
+#myTable {
+    
+     margin-top: 20px;
+     margin-bottom: 20px;
+      background: #ECECFA;
+      width: 100%;
+    border-collapse: collapse; /* Collapse borders*/
+    border: 2px solid #E0FFFF; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */*/
+}
+#myTable th {
+    text-align: left; 
+    padding: 2px; /* Add padding */
+    background-color:#ECECFA;
+    color: #337AB7;
+     border-left: 2px solid #E0FFFF;
+}
+#myTable td {
+    text-align: left; /* Left-align text */
+    padding: 2px; /* Add padding */
+    border-left: 2px solid #E0FFFF;
+}
+
+
+
+#myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 2px solid #E0FFFF; 
+   /*background-color: #FFE4B4;*/
+
+   background-color: #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #FFB6C1;
+}
+
+.section1{
+  width:20vw;
+}
+    .submenu{
+  background-color:#ececfa;
+  display:block;
+  padding:4% 4%;
+  border-bottom:1px solid #a7a7ad;
+  padding-left:4%;
+}
+.submenu:hover{
+  cursor:pointer;
+  background-color:#ffffff;
+  font-size:24px;
+  color:red;
+}
+
+section{
+  display:flex;
+ 
+}
